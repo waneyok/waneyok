@@ -43,7 +43,7 @@ I'm a **student**, **developer**, and **QA engineer** currently studying Compute
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| _(add your first project)_ | Short description here | C#, WPF, SQL |
+| | | |
 
 *More coming soon! 🚀*
 
