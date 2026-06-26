@@ -43,7 +43,7 @@ I'm a **student**, **developer**, and **QA engineer** currently studying Compute
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| | | |
+|IgoraApp |Igora is a desktop application for automating the operations of a sports equipment rental shop. The application allows you to manage clients, employees, equipment, services, and rental orders. It features a role-based access model, authorization history, equipment return via barcode, and statistics generation. |C#, SQLServer, WPF |
 
 *More coming soon! 🚀*
 
