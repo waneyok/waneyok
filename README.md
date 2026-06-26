@@ -43,8 +43,8 @@ I'm a **student**, **developer**, and **QA engineer** currently studying Compute
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-|<a href="https://github.com/waneyok/IgoraApp">IgoraApp</a> |Igora is a desktop application for automating the operations of a sports equipment rental shop. The application allows you to manage clients, employees, equipment, services, and rental orders. It features a role-based access model, authorization history, equipment return via barcode, and statistics generation. |C#, SQLServer, WPF |
-|<a href="https://github.com/waneyok/Authtorization_TestCase">Authtorization_TestCase</a> |A C# desktop application with a graphical interface for checking logins and passwords against specified validation criteria. |C#, WPF, Word |
+|<a href="https://github.com/waneyok/IgoraApp" style="text-decoration: none">IgoraApp</a> |Igora is a desktop application for automating the operations of a sports equipment rental shop. The application allows you to manage clients, employees, equipment, services, and rental orders. It features a role-based access model, authorization history, equipment return via barcode, and statistics generation. |C#, SQLServer, WPF |
+|<a href="https://github.com/waneyok/Authtorization_TestCase" style="text-decoration: none">Authtorization_TestCase</a> |A C# desktop application with a graphical interface for checking logins and passwords against specified validation criteria. |C#, WPF, Word |
 
 *More coming soon! 🚀*
 
