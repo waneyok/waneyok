@@ -35,6 +35,8 @@ I'm a **student**, **developer**, and **QA engineer** currently studying Compute
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
   <img src="https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Visio">
+  <img src="https://img.shields.io/badge/Selenium-4.0+-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  
 </p>
 
 ---
