@@ -46,6 +46,7 @@ I'm a **student**, **developer**, and **QA engineer** currently studying Compute
 |<a href="https://github.com/waneyok/IgoraApp">IgoraApp</a> |Igora is a desktop application for automating the operations of a sports equipment rental shop. The application allows you to manage clients, employees, equipment, services, and rental orders. It features a role-based access model, authorization history, equipment return via barcode, and statistics generation. |C#, SQLServer, WPF |
 |<a href="https://github.com/waneyok/Authtorization_TestCase">Authtorization_TestCase</a> |A C# desktop application with a graphical interface for checking logins and passwords against specified validation criteria. |C#, WPF, Word |
 |<a href="https://github.com/waneyok/EasyTamplateWPF">EasyTamplateWPF</a> |WPF application template for the exam Pastel beige design, single table, CRUD (view/add/delete). No database connection—everything will be connected during the exam. |C#, WPF |
+|<a href="https://github.com/waneyok/Automation_Get_Count_Students">Automation_Get_Count_Students</a> |An automated web page testing script for retrieving data on the number of incoming students for a selected specialization.|Python, Selenium|
 
 *More coming soon! 🚀*
 
