@@ -18,7 +18,7 @@ I'm a **student**, **developer**, and **QA engineer** currently studying Compute
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=cs,yaml,python" alt="C#, YAML, Python" />
+<img src="https://skillicons.dev/icons?i=cs,python" alt="C#, Python" />
 
 #### Frameworks & Tools
 
