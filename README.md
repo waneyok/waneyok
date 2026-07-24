@@ -22,7 +22,7 @@ I'm a **student**, **developer**, and **QA engineer** currently studying Compute
 
 #### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,git,github,postman,docker" alt=".NET, Visual Studio, Git, GitHub, Postman, Docker" />
+<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,git,github,postman" alt=".NET, Visual Studio, Git, GitHub, Postman" />
 
 #### Databases
 
