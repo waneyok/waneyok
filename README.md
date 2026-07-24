@@ -4,8 +4,6 @@
   <b>Aspiring C# Developer and QA Engineer</b>
 </p>
 
--->
-
 ---
 
 ### 🧑‍🎓 About Me
