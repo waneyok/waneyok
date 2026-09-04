@@ -9,7 +9,6 @@
 ### 🧑‍🎓 About Me
 
 I'm a **student**, **developer**, and **QA engineer** currently studying Computer Science. Passionate about software engineering, desktop apps, and quality assurance. I enjoy working on side projects that challenge me to learn new things and take pride in writing clean, reliable code. Always eager to collaborate on new ideas and meet fellow developers.
-<a href="https://github.com/waneyok/waneyok/blob/main/romanov-resume.pdf">My Resume</a>
 
 ---
 
